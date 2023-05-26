@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{865CDD89-A52B-432C-85E1-59694B9C0215}|https">
+  <MonoDevelop.Ide.ItemProperties.SophosGameLibraryAPI PreferredExecutionTarget="/Applications/Arc.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UserController.cs">
+    <Files>
+      <File FileName="Program.cs" Line="6" Column="106" />
+      <File FileName="appsettings.json" Line="2" Column="3" />
+      <File FileName="Models/Game.cs" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="3" Column="146" />
+      <File FileName="DBContext/AppDbContext.cs" Line="29" Column="99" />
+      <File FileName="Controllers/UserController.cs" Line="11" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SophosGameLibraryAPI" expanded="True">
+            <Node name="SophosGameLibraryAPI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

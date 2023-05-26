@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1WN8ddICI4fhxM9U4t1M7r2DEmAPVtW5Pe9vD00No54=",
+  "Source": "SophosGameLibraryAPI",
+  "BasePath": "_content/SophosGameLibraryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
